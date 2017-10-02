@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_picture">Set Profile Picture (optional)</string>
+    <string name="Username">Username</string>
+    <string name="FullName">Full name (private, not listed)</string>
+    <string name="Password">Password</string>
+    <string name="Retype">Please retype your password:</string>
+    <string name="Clear">Clear</string>
+    <string name="AlreadyHave">Already Have an Account</string>
+</resources>
